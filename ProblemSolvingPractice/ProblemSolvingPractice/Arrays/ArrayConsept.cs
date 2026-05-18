@@ -4,7 +4,7 @@ namespace ProblemSolvingPractice.Arrays
 {
     public class ArrayConsept
     {
-        static void Main(string[] args)
+        /*static*/ void Main(string[] args)
         {
 
         }
