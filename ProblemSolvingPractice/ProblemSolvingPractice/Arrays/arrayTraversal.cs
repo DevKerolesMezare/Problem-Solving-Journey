@@ -9,7 +9,7 @@ namespace ProblemSolvingPractice.Arrays
 {
     public class arrayTraversal
     {
-             /// Eazyyyyyyyyyyyyyyyyyy hhh🤷       Day 1        7 easy Problem From ChatGPT 
+             /// Eazyyyyyyyyyyyyyyyyyy hhh🤷       Day 1   5/18/2026      7 easy Problem From ChatGPT 
        
 
         static int FindMax(int[] arr)
