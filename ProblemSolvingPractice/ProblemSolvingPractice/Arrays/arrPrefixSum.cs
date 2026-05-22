@@ -112,7 +112,7 @@ namespace ProblemSolvingPractice.Arrays
             }
         }
 
-        static void Main()
+        /*static*/ void Main()
         {
             int[] arr = new int[]{ 10, 4, 8, 3 };
 
