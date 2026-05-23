@@ -82,15 +82,15 @@ namespace ProblemSolvingPractice.Arrays
 
             for (int i = 1; i < prices.Length; i++)
             {
-                if (minPrice > prices[i])
+                if (minPrice > prices[i])       // امتي اشتري
                     minPrice = prices[i];
 
-                maxProfit = Math.Max(maxProfit, prices[i] - minPrice);
+                maxProfit = Math.Max(maxProfit, prices[i] - minPrice); // نقارن علشان نشوف افضل سعر للبيع وهو السعر الحالي - اقل سعر للشراء
             }
             return maxProfit;
         }
 
-        static void Main()
+        /*static*/ void Main()
         {
             int[] arr = new int[] { 2, -1, 3, -4 , 5 };
 
