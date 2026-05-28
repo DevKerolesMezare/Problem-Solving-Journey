@@ -101,7 +101,7 @@ namespace ProblemSolvingPractice.Arrays
             return new int[] { };
         }
 
-        static void Main()
+        /*static*/ void Main()
         {
             int[] arr = new int[] {  5, 2 ,3 , 3, 6 };
 
