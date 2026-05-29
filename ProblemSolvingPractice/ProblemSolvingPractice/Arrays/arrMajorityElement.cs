@@ -179,7 +179,7 @@ namespace ProblemSolvingPractice.Arrays
             return candidate;          //  نرجع العنضصر المرشح 
         }
 
-        static public void Main()
+        /*static*/ public void Main()
         {
             //int[] arr = {1,1,1,1,2,2,2,3};
             int[] arr = {1,2};
