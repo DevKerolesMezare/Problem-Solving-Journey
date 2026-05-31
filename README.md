@@ -8,6 +8,7 @@ The goal is to understand common approaches, improve logical thinking, and becom
 ---
 
 ## Month-1 Structure
+```
 Month-1
 │
 ├── Arrays
@@ -60,16 +61,15 @@ Month-1
 │   └── Permutation in String
 │
 └── Binary Search
-│
-├── Binary Search
-├── Search Insert Position
-├── First Bad Version
-├── Find First and Last Position
-├── Search in Rotated Sorted Array
-├── Find Minimum in Rotated Sorted Array
-└── Koko Eating Bananas
-
-
+    │
+    ├── Binary Search
+    ├── Search Insert Position
+    ├── First Bad Version
+    ├── Find First and Last Position
+    ├── Search in Rotated Sorted Array
+    ├── Find Minimum in Rotated Sorted Array
+    └── Koko Eating Bananas
+```
 ---
 
 ## Main Goal
