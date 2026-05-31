@@ -67,12 +67,13 @@ namespace ProblemSolvingPractice.Arrays
         }
 
 
-        public static void  Main()
+        public /*static*/ void  Main()
         {
             string s = "kero" ,l ="krleo";
 
             Console.WriteLine("restul: " + FindTheDifference(s, l));
 
+            
         }
 
     }
