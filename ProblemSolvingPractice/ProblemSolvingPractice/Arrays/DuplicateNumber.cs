@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace ProblemSolvingPractice.Arrays
@@ -79,6 +80,51 @@ namespace ProblemSolvingPractice.Arrays
             }
 
             return true;
+        }
+
+
+        // 49. Group Anagrams
+        public IList<IList<string>> GroupAnagrams(string[] strs)
+        {
+
+            Dictionary<string, List<string>> map = new Dictionary<string, List<string>>();
+            foreach (string s in strs)
+            {
+                string srt = new string(s.OrderBy(s => s).ToArray());
+
+                if (!map.ContainsKey(srt))
+                    map[srt] = new List<string>();
+
+                map[srt].Add(s);
+            }
+
+            return map.Values.ToList<IList<string>>();
+        }
+
+
+        // 347. Top K Frequent Elements
+        public int[] TopKFrequent(int[] nums, int k)
+        {
+            Dictionary<int, int> map = new Dictionary<int, int>();
+
+            foreach (int num in nums)
+            {
+                if (!map.ContainsKey(num))
+                    map[num] = 0;
+
+                map[num]++;
+            }
+
+            var srt = map.OrderByDescending(x => x.Value).ToList(); 
+
+            int[] arr = new int[k];
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                arr[i] = srt[i].Key;
+            }
+
+            return arr;
         }
 
     }
