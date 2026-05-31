@@ -10,7 +10,6 @@ The goal is to understand common approaches, improve logical thinking, and becom
 
 # Month-1 Structure
 
-```text
 Month-1
 │
 ├── Arrays
@@ -23,12 +22,22 @@ Month-1
 │   ├── Missing Number
 │   ├── Duplicate Number
 │   ├── Maximum Subarray
-│   └── Best Time to Buy and Sell Stock
+│   ├── Best Time to Buy and Sell Stock
+│   ├── Product of Array Except Self
+│   └── Rotate Array
+│
+├── Strings
+│   │
+│   ├── Reverse String
+│   ├── Valid Palindrome
+│   ├── Longest Common Prefix
+│   ├── String Compression
+│   └── Reverse Words in a String
 │
 ├── HashMap / HashSet
 │   │
 │   ├── Frequency Count
-│   ├── Two Sum Pattern
+│   ├── Two Sum
 │   ├── Contains Duplicate
 │   ├── Valid Anagram
 │   ├── Group Anagrams
@@ -42,8 +51,7 @@ Month-1
 │   ├── 3Sum
 │   ├── Container With Most Water
 │   ├── Remove Duplicates
-│   ├── Move Zeroes
-│   └── Middle of Linked List
+│   └── Move Zeroes
 │
 ├── Sliding Window
 │   │
@@ -62,9 +70,7 @@ Month-1
     ├── Search in Rotated Sorted Array
     ├── Find Minimum in Rotated Sorted Array
     └── Koko Eating Bananas
-```
-
----
+    
 
 ## Main Goal
 
