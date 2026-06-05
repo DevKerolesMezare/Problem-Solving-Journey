@@ -1,0 +1,116 @@
+[33mcommit 4ca28e2f38622f8b4623186dafd99caca5a22826[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Tue Jun 2 00:08:44 2026 +0300
+
+    Day8: Product of Array Except Self ✅
+
+[33mcommit 69f23b8d3178cd52a5b250ecb00ca6a0e8b3e550[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon Jun 1 02:12:10 2026 +0300
+
+     Day 8:
+     ├── Maximum Subarra
+     ├── Best Time to Buy and Sell Stock
+
+[33mcommit 3bbd4c880a51dcbc3750c54781368244d1f67b81[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon Jun 1 00:28:22 2026 +0300
+
+    Update README.md
+
+[33mcommit c18a546de0b8129da66571c70bfdb19af35cf182[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon Jun 1 00:26:28 2026 +0300
+
+    Update README.md
+
+[33mcommit 5293a6190f3273d1a805c6cffde1ce52567f974a[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon Jun 1 00:23:02 2026 +0300
+
+    feat: revise Month-1 plan structure
+    
+    - Add Strings section (Reverse String, Valid Palindrome,
+      Longest Common Prefix, String Compression,
+      Reverse Words in a String)
+    
+    - Add Product of Array Except Self to Arrays
+    - Add Rotate Array to Arrays
+    
+    - Remove Two Sum Pattern duplicate from Arrays
+      (kept only in HashMap as full problem)
+    
+    - Remove Middle of Linked List from Two Pointers
+      (moved to Month-2 with Linked Lists)
+
+[33mcommit 08a3e13d56dd0e051fb561e2618549390ec6aedc[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon Jun 1 00:07:25 2026 +0300
+
+    Day7: Duplicate Number (End)
+
+[33mcommit 22430be678d555aa0f38051b61926663a4ade9a7[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Sun May 31 04:30:17 2026 +0300
+
+    Day7: Duplicate Number (Part 1)
+
+[33mcommit 7eb6080624d00fb940105d102cffa3b258c44814[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Sat May 30 01:17:16 2026 +0300
+
+    Day6:  Learn MissingNumber
+
+[33mcommit 7c9bf8b20f2e6aac1862ce1a4d76ff329c225730[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Thu May 28 16:33:16 2026 +0300
+
+    Day5:  Learn MajorityElement && Boyer-Moore Voting Algorithm
+
+[33mcommit 2e8b97473bae2ff74c9e3164ce6b11b9cccae417[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Wed May 27 21:47:32 2026 +0300
+
+    Update gitignore
+
+[33mcommit 51c9b6221c2495fb87874388c987384baff23fa0[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Sat May 23 19:34:59 2026 +0300
+
+     Day4: Learn Two Sum Pattern
+
+[33mcommit 374d6d117f6544d112230936bea07956cade4bf6[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Fri May 22 20:36:44 2026 +0300
+
+    Day3: Learn Kadane Algorithm pattern
+
+[33mcommit 04e42c2e2685ab1880b33433fe7d77031fcc17dd[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Thu May 21 03:02:05 2026 +0300
+
+    Day2: Learn Prefix Sum pattern
+
+[33mcommit 6054e601c2bb81ca256cc336dc64cef77234b881[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon May 18 23:59:26 2026 +0300
+
+    Add Day 1 traversal practice problems
+
+[33mcommit 01c012e82cf328f0729e97b959cab91f51845dba[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon May 18 21:34:56 2026 +0300
+
+    Initial project setup with Array folder
+
+[33mcommit 4d68c7e7add0eb5d2681d2218388486fdfa533fa[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon May 18 20:58:05 2026 +0300
+
+    Update README.md
+
+[33mcommit 1d72489fc712056fe609071fd96da48ffd6ca5e3[m
+Author: Keroles Mezare <keroles.mezare2005@gmail.com>
+Date:   Mon May 18 20:51:19 2026 +0300
+
+    Initial commit
