@@ -72,5 +72,36 @@ namespace ProblemSolvingPractice.Strings
             return write_index;
         }
 
+
+        // 2 
+        public int Compress2(char[] chars)
+        {
+            int write = 0;
+            int count = 1;
+
+            for (int i = 1; i <= chars.Length; i++)
+            {
+                if (i < chars.Length && chars[i] == chars[i - 1])
+                {
+                    count++;
+                }
+                else
+                {
+                    chars[write++] = chars[i - 1];
+
+                    if (count > 1)
+                    {
+                        foreach (char digit in count.ToString())
+                        {
+                            chars[write++] = digit;
+                        }
+                    }
+
+                    count = 1;
+                }
+            }
+
+            return write;
+        }
     }
 }

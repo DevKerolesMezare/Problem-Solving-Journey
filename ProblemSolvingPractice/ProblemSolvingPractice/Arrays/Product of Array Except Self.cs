@@ -43,7 +43,7 @@ namespace ProblemSolvingPractice.Arrays
         //nums =  [1,  2,  3, 4]
         //Prefix = [1,  1,  2, 6]
         //Suffix = [24, 12, 4, 1]
-        static void Main()
+        /*static*/ void Main()
         {
             int[] arr = new int[] {1,2,3,4 };
 
